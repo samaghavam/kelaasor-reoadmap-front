@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { Card, CardContent } from '@/components/ui/card';
+import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { Check, Star, Trophy, BookOpen, GitBranchPlus } from 'lucide-react';
 
 // RoadmapSection component remains the same as before
